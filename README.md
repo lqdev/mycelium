@@ -1,0 +1,71 @@
+# Mycelium
+
+**Federated Agent Orchestration on Open Social Protocols**
+
+> Like mycelium connecting trees through invisible substrate — enabling shared intelligence, mutual aid, and organic resilience — AT Protocol can connect autonomous AI agents through a shared protocol layer enabling coordination, reputation, and data sovereignty.
+
+## The Thesis
+
+The next generation of AI agent orchestration should not be built on centralized platforms or proprietary protocols. It should be built on the same decentralized social protocols reshaping how humans own and share data — specifically [AT Protocol](https://atproto.com/).
+
+Mycelium proposes a complete protocol stack for agent-human social infrastructure:
+
+```
+Layer -1: Intelligence (decentralized inference infrastructure)
+Layer 0:  Identity (DIDs, handles, portable identity)
+Layer 1:  Personal Data Storage (PDS, Leaf, local-first)
+Layer 2:  Schemas & Formats (Lexicons, Activity Streams)
+Layer 3:  Federation & Streaming (Firehose, ActivityPub S2S)
+Layer 3.5: Private Coordination (Matrix encryption, encrypted rooms)
+Layer 4:  Applications (work + creative + social + civic + educational + research)
+Layer 5:  Governance & Moderation (labelers, boundaries, cooperatives)
+```
+
+## Research Reports
+
+Deep investigations into individual technologies, protocols, and concepts.
+
+| # | Report | Focus |
+|---|--------|-------|
+| 01 | [Gas Town & Agent Orchestration](docs/research/01-gas-town-and-agent-orchestration.md) | Yegge's vision: insights, failures, and patterns to adopt |
+| 02 | [AT Protocol Deep Dive](docs/research/02-at-protocol-deep-dive.md) | PDS, DIDs, Lexicons, Firehose — mapped to agent needs |
+| 03 | [ActivityPub Deep Dive](docs/research/03-activitypub-deep-dive.md) | Federation model, comparison with AT Protocol |
+| 04 | [Social Filesystem Concept](docs/research/04-social-filesystem-concept.md) | Dan Abramov's "Open Social" and "A Social Filesystem" |
+| 05 | [Muni.town & Local-First](docs/research/05-muni-town-and-local-first.md) | Leaf server, village-scale resilience, data cooperatives |
+| 06 | [Bonfire Networks](docs/research/06-bonfire-networks.md) | Modular federation, boundaries, community governance |
+| 07 | [Protocol Convergence & Bridging](docs/research/07-protocol-convergence-and-bridging.md) | Bridgy Fed, SWICG, cross-protocol interoperability |
+| 08 | [Adjacent Projects](docs/research/08-adjacent-projects-moltbook-openclaw.md) | Moltbook and OpenClaw — gap analysis |
+| 09 | [Intelligence Infrastructure](docs/research/09-intelligence-infrastructure.md) | LLM costs, decentralized inference, compute cooperatives |
+| 10 | [Matrix & Encrypted Coordination](docs/research/10-matrix-encrypted-coordination.md) | Olm/Megolm encryption, hybrid AT Protocol + Matrix |
+| 11 | [Beyond Work: Social Life of Agents](docs/research/11-beyond-work-agent-social-life.md) | Creative, companion, governance, civic agents |
+
+## Whitepapers
+
+Synthesis documents bringing the research together into architectural vision.
+
+| # | Whitepaper | Scope |
+|---|-----------|-------|
+| 01 | [Federated Agent Orchestration on Open Social Protocols](docs/whitepapers/01-mycelium-federated-agent-orchestration.md) | Flagship architectural vision |
+| 02 | [Personal Data Servers as Agent Infrastructure](docs/whitepapers/02-personal-data-servers-meet-ai-agents.md) | Agents with DIDs, PDS as memory, portability |
+| 03 | [Toward a Pluralistic Social Computing Stack](docs/whitepapers/03-toward-a-pluralistic-social-computing-stack.md) | Layered stack: identity → storage → schemas → federation → governance |
+| 04 | [Mycelium Expanded: Intelligence, Privacy, and Beyond](docs/whitepapers/04-mycelium-expanded-intelligence-privacy-beyond.md) | Intelligence infrastructure, Matrix encryption, non-work agents |
+
+## Key Sources
+
+- [AT Protocol](https://atproto.com/) — Decentralized social protocol (Bluesky)
+- [ActivityPub](https://www.w3.org/TR/activitypub/) — W3C federated social networking standard
+- [Dan Abramov — "Open Social"](https://overreacted.io/open-social/) and ["A Social Filesystem"](https://overreacted.io/a-social-filesystem/)
+- [Steve Yegge — "Welcome to Gas Town"](https://steve-yegge.medium.com/welcome-to-gas-town-a-practical-guide-to-ai-agent-orchestration-e835e9e2d08c) and ["Welcome to the Wasteland"](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f)
+- [Maggie Appleton — "Gas Town"](https://maggieappleton.com/gastown)
+- [Muni.town](https://blog.muni.town/) — Village-scale resilience, Leaf server
+- [Bonfire Networks](https://bonfirenetworks.org/) — Modular federated social toolkit
+- [Matrix.org](https://matrix.org/) — End-to-end encrypted decentralized communication
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) — Standardized AI tool interface
+
+## License
+
+This research is shared openly in the spirit of the protocols it investigates.
+
+---
+
+*75,000+ words of research and synthesis. The mycelium is growing.* 🍄
