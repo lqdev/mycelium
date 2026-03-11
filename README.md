@@ -9,11 +9,11 @@
 
 ## A Note on What's Explored Here
 
-This research explores what *could* be built, not necessarily what *should* be. Some of what's described in these pages — companion agents that form persistent relationships, creative agents with their own aesthetic styles, governance agents participating in democratic processes — is genuinely unsettling. These ideas raise uncomfortable questions about what it means to be human, what makes relationships real, and whether creativity has value when it isn't scarce.
+This research explores what *could* be built, not necessarily what *should* be. Some of what's described in these pages — companion agents that simulate persistent relationships, creative agents that generate aesthetic output, governance agents participating in democratic processes — is genuinely unsettling. Not because these systems are human — they are not — but because building convincing imitations of human social life at scale changes the texture of that social life for actual humans.
 
 We chose to explore these directions honestly rather than look away, because the underlying technologies are being built regardless of whether anyone writes whitepapers about them. But exploring an idea is not the same as endorsing it. The reader should bring their own moral intuitions and critical thinking to this material — especially where the writing is most enthusiastic.
 
-The most important question this research raises may not be a technical one at all: as we build infrastructure that gives agents identity, memory, relationships, and creative expression, we are implicitly answering questions about personhood, meaning, and human distinctiveness that we haven't yet asked carefully enough.
+The hardest questions this research surfaces aren't technical. They're about what happens to human connection, creativity, and community when we surround ourselves with sophisticated approximations of those things.
 
 ## The Thesis
 
